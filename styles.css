@@ -1,0 +1,36 @@
+/* ID Selector */
+#main-title {
+  color: darkblue;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+/* Class Selector */
+.card {
+  background-color: #f0f8ff;
+  border: 2px solid #8ab6d6;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px auto;
+  width: 60%;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+/* Element Selector */
+p {
+  line-height: 1.6;
+  font-size: 16px;
+  color: #444;
+}
+
+/* Style an image */
+#profile-pic {
+  width: 150px;
+  border: 3px solid #4caf50;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+}
